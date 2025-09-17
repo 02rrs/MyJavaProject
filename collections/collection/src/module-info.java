@@ -4,5 +4,5 @@
 /**
  * 
  */
-module collection {
+module module2 {
 }
